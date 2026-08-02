@@ -1,8 +1,4 @@
 <?php
-/**
- * Database connection settings.
- * Update the credentials below to match your local PostgreSQL setup.
- */
 
 $DB_HOST = 'localhost';
 $DB_PORT = '5432';
